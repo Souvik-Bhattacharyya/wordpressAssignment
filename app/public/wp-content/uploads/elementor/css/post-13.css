@@ -1,0 +1,64 @@
+.elementor-kit-13{--e-global-color-primary:#92C1F9;--e-global-color-secondary:#323232;--e-global-color-text:#202020;--e-global-color-accent:#171717;--e-global-color-6cf3693:#F7F7F7;--e-global-typography-primary-font-family:"Poppins";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Albert Sans";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-13 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//*Mobile*/
+@media (max-width: 767px){
+.elementor-8 .elementor-element.elementor-element-97bfce5,.elementor-8 .elementor-element.elementor-element-c08cb9f {
+        margin-bottom: 0;
+    }
+    
+    .hfe-nav-menu__layout-horizontal .hfe-nav-menu {
+        align-content: flex-start;
+        align-items: flex-start;
+    }
+    
+}
+
+.elementor-icon-list-item{
+    list-style-type: none;
+}
+
+/*Ipad*/
+@media (max-width: 968px){
+    .howButton .elementor-button-content-wrapper i {
+    font-size: 16px;
+}
+}
+
+/*Desktop*/
+@media (min-width: 1025px) and (max-width: 1388px){
+    .elementor-8 .elementor-element.elementor-element-35260a4 .elementor-heading-title,.elementor-8 .elementor-element.elementor-element-9c1b2b9 .elementor-heading-title,.elementor-8 .elementor-element.elementor-element-dc8d0ba .elementor-heading-title,.elementor-8 .elementor-element.elementor-element-c877fba .elementor-heading-title{
+        font-size: 40px !important;
+    }
+    
+    .elementor-8 .elementor-element.elementor-element-0a31139 .elementor-heading-title{
+        font-size: 26px !important;
+    }
+    
+    .elementor-8 .elementor-element.elementor-element-7b0468d .elementor-heading-title{
+        font-size: 14px !important;
+    }
+    
+    .elementor-8 .elementor-element.elementor-element-8b77207 img {
+    width: 130px !important;
+    max-width: 149px;
+    height: 40px !important;
+    object-fit: cover;
+    object-position: center center;
+    border-radius: 23px 23px 23px 23px;
+}
+
+}
+
+html,body{
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    box-shadow: inset 0px 0px 20px #ccc;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background-color: #92C1F9;
+}/* End custom CSS */
