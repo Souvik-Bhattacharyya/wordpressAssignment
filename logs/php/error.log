@@ -35,3 +35,4 @@ Stack trace:
 #32 C:\Users\welcome Sir\Local Sites\wordpressassignment2\app\public\index.php(17): require('C:\\Users\\welcom...')
 #33 {main}
   thrown in C:\Users\welcome Sir\Local Sites\wordpressassignment2\app\public\wp-content\plugins\elementor\core\page-assets\data-managers\base.php on line 242
+[21-Mar-2024 10:39:52 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
